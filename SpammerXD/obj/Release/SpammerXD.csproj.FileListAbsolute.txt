@@ -1,0 +1,10 @@
+C:\Users\iulian\source\repos\SpammerXD\SpammerXD\bin\Release\SpammerXD.exe.config
+C:\Users\iulian\source\repos\SpammerXD\SpammerXD\bin\Release\SpammerXD.exe
+C:\Users\iulian\source\repos\SpammerXD\SpammerXD\bin\Release\SpammerXD.pdb
+C:\Users\iulian\source\repos\SpammerXD\SpammerXD\obj\Release\SpammerXD.csprojAssemblyReference.cache
+C:\Users\iulian\source\repos\SpammerXD\SpammerXD\obj\Release\SpammerXD.Form1.resources
+C:\Users\iulian\source\repos\SpammerXD\SpammerXD\obj\Release\SpammerXD.Properties.Resources.resources
+C:\Users\iulian\source\repos\SpammerXD\SpammerXD\obj\Release\SpammerXD.csproj.GenerateResource.cache
+C:\Users\iulian\source\repos\SpammerXD\SpammerXD\obj\Release\SpammerXD.csproj.CoreCompileInputs.cache
+C:\Users\iulian\source\repos\SpammerXD\SpammerXD\obj\Release\SpammerXD.exe
+C:\Users\iulian\source\repos\SpammerXD\SpammerXD\obj\Release\SpammerXD.pdb
